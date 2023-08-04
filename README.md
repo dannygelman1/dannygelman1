@@ -1,6 +1,6 @@
 <section id="header" align="center">
   <h1>Hi, I’m Danny!</h1>
-  <h3>I'm a software engineer currently working at a small startup. Here are some of my personal projects!</h3>
+  <h4>I am full stack software engineer, and like to work on some fun side projects which you can see below!</h4>
 </section>
 
 <table>
