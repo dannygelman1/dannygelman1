@@ -33,7 +33,7 @@
         </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Concept Cove (WIP)</h3>
+      <h3 align="center">Crossword Maker</h3>
         <br />
         <a target="_blank" href="#">
           <img width="1438" alt="Screen Shot 2023-08-03 at 11 21 46 PM" src="https://github.com/dannygelman1/dannygelman1/assets/45411340/e2b93b47-5947-4aef-978d-e5367765d5c4"/>
