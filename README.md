@@ -13,10 +13,10 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/dannygelman1/Crossword-Maker" target="_blank">
+          <a href="https://github.com/dannygelman1/ConceptCove" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=000000&style=flat-square&logo=github&logo-color=white"/>
           </a>
-          <a href="https://crossword-sepia.vercel.app/" target="_blank">
+          <a href="https://concept-cove.vercel.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=TRY IT OUT&color=000000&style=flat-square"/>
           </a>
         </p>
@@ -40,10 +40,10 @@
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/dannygelman1/ConceptCove" target="_blank">
+          <a href="https://github.com/dannygelman1/Crossword-Maker" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=REPO&color=000000&style=flat-square&logo=github&logo-color=white"/>
           </a>
-          <a href="https://concept-cove.vercel.app/" target="_blank">
+          <a href="https://crossword-sepia.vercel.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=&message=TRY IT OUT&color=000000&style=flat-square"/>
           </a>
         </p>
