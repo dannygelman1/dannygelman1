@@ -9,7 +9,7 @@
       <h3 align="center">Concept Cove (WIP)</h3>
         <br />
         <a target="_blank" href="#">
-          <img width="1427" alt="Screen Shot 2023-08-03 at 11 34 39 PM" src="https://github.com/dannygelman1/dannygelman1/assets/45411340/e34a4ef1-572f-4e0c-a382-348e2b39ced2">
+          <img width="1436" alt="Screen Shot 2023-08-18 at 10 19 05 PM" src="https://github.com/dannygelman1/dannygelman1/assets/45411340/40bc516e-a90c-47ad-bd82-89eda57e8cca">
         </a>
         <br />
         <p align="center">
