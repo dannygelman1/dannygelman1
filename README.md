@@ -6,10 +6,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Concept Cove (WIP)</h3>
+      <h3 align="center">Concept Cove</h3>
         <br />
         <a target="_blank" href="#">
-          <img width="1436" alt="Screen Shot 2023-08-18 at 10 19 05 PM" src="https://github.com/dannygelman1/dannygelman1/assets/45411340/40bc516e-a90c-47ad-bd82-89eda57e8cca">
+         <img width="1430" alt="Screen Shot 2023-08-18 at 10 30 40 PM" src="https://github.com/dannygelman1/dannygelman1/assets/45411340/ea27c14a-4271-423c-8690-5cbc5d3345d5">
         </a>
         <br />
         <p align="center">
